@@ -2,22 +2,10 @@
     filter: brightness(60%);
 }
 
-.elearning-img {
-    width: 600px;
-    height: 803px;
-}
-
-.elearning-color {
-    background-color: #F4FAFD;
-    width: 550px;
-    height: 803px;
-}
-
 .bg-color-change {
 
     height: 280px;
     background-color: #289BDE;
-    ;
 }
 
 .fa-star {
