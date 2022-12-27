@@ -1,32 +1,14 @@
-.img-color {
-    filter: brightness(60%);
-}
 
 .bg-color-change {
 
     height: 280px;
-    background-color: #289BDE;
+    background-color: #bbbfc2;
 }
 
-.fa-star {
 
-    color: gold;
-}
 
 .acordion-item-width {
     width: 75%;
 }
 
-.footer-size {
-    width: 100%;
-    height: 476px;
-}
 
-.fa-github,
-.fa-linkedin,
-.fa-instagram,
-.fa-facebook {
-    font-size: 2rem;
-    padding: 1rem;
-    color: gray;
-}
